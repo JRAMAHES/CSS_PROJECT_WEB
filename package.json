@@ -1,0 +1,22 @@
+{
+  "name": "notours",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRAMAHES/CSS_PROJECT_WEB.git"
+  },
+  "author": "JRAMAH'S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRAMAHES/CSS_PROJECT_WEB/issues"
+  },
+  "homepage": "https://github.com/JRAMAHES/CSS_PROJECT_WEB#readme",
+  "devDependencies": {
+    "sass": "^1.83.4"
+  }
+}
